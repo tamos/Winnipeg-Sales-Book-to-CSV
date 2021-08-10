@@ -4,6 +4,8 @@ Convert Winnipeg's Sales Book PDFs to CSV
 
 The City of Winnipeg provides real estate transaction data for the city in the form of a Sales Book.
 
+[City of Winnipeg Sales Book Page] (http://winnipegassessment.com/AsmtTax/English/SelfService/SalesBooks.stm)
+
 This data is provided as tables within PDF documents. To make this data more accessible, it is necessary to convert it into a machine-readable format like CSV.
 
 ## Requirements:
